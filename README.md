@@ -1,2 +1,2 @@
-# UCSC CSE-111
- 
+# CSE-111
+ All programming assignments from CSE-111
