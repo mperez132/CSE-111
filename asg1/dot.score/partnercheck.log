@@ -1,0 +1,9 @@
+partnercheck: partner = "kkolokou"
+partnercheck: ./PARTNER: format OK:
+username = "kkolokou"
+passwd   = "*"
+uid      = "261988"
+gid      = "100"
+gecos    = "Constantine George Kolokousis"
+home     = "/afs/cats.ucsc.edu/users/l/kkolokou"
+shell    = "/bin/bash"

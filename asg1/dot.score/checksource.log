@@ -1,0 +1,5 @@
+checksource: improper character \x0D = ^M (carriage return)
+   file "README": 14 errors: lines 1--14
+checksource: improper character \x92
+   file "README": 1 errors: line 3
+checksource: TOTAL COMPLAINTS: 15
