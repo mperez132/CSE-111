@@ -1,2 +1,2 @@
-# CSE-111-GitHub
+# UCSC CSE-111
  
